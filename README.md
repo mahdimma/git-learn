@@ -63,7 +63,7 @@ A comprehensive guide to learning Git version control system from basics to adva
 <div align="center">
   <table>
     <tr>
-      <td align="center"><a href="Appendix_Additional%20Information.md"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="50px" /><br /><b>📝 Appendix</b></a></td>
+      <td align="center"><a href="Appendix_Additional_Information.md"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="50px" /><br /><b>📝 Appendix</b></a></td>
       <td align="center"><a href="LICENSE"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="50px" /><br /><b>⚖️ License</b></a></td>
     </tr>
   </table>
