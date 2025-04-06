@@ -1,14 +1,95 @@
-# 📚 Git Learning Resource Center
+# 🌍 Git Learning Resource Center
 
 <div align="center">
 
 ![Git Logo](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png)
 
-A comprehensive guide to mastering Git version control - from basics to advanced techniques
+A comprehensive multilingual guide to mastering Git version control - from basics to advanced techniques
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/firstcontributions/first-contributions)
 [![Made with Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](https://www.markdownguide.org/)
+
+</div>
+
+---
+
+## 🌐 Available Languages
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <a href="en/README.md">
+          <img src="https://em-content.zobj.net/thumbs/120/twitter/322/flag-united-kingdom_1f1ec-1f1e7.png" width="48px" height="48px"><br>
+          <b>English</b>
+        </a>
+      </td>
+      <td align="center" width="25%">
+        <a href="fr/README.md">
+          <img src="https://em-content.zobj.net/thumbs/120/twitter/322/flag-france_1f1eb-1f1f7.png" width="48px" height="48px"><br>
+          <b>Français</b>
+        </a>
+      </td>
+      <td align="center" width="25%">
+        <a href="es/README.md">
+          <img src="https://em-content.zobj.net/thumbs/120/twitter/322/flag-spain_1f1ea-1f1f8.png" width="48px" height="48px"><br>
+          <b>Español</b>
+        </a>
+      </td>
+      <td align="center" width="25%">
+        <a href="de/README.md">
+          <img src="https://em-content.zobj.net/thumbs/120/twitter/322/flag-germany_1f1e9-1f1ea.png" width="48px" height="48px"><br>
+          <b>Deutsch</b>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 📋 Repository Structure
+
+```
+git-learn/
+├── README.md                  # Main README with language selection
+├── LICENSE                    # Project license
+├── assets/                    # Shared assets across languages
+│   └── images/                # Images used in documentation
+├── en/                        # English content
+│   ├── README.md              # English main page
+│   ├── tutorials/             # English tutorials
+│   │   ├── 01_git_basics_getting_started.md
+│   │   ├── 02_git_branching_strategies.md
+│   │   └── ...
+│   └── resources/             # English-specific resources
+├── fr/                        # French content
+│   ├── README.md              # French main page  
+│   ├── tutorials/             # French tutorials
+│   └── resources/             # French-specific resources
+├── es/                        # Spanish content
+│   ├── README.md              # Spanish main page
+│   ├── tutorials/             # Spanish tutorials
+│   └── resources/             # Spanish-specific resources
+└── de/                        # German content
+    ├── README.md              # German main page
+    ├── tutorials/             # German tutorials
+    └── resources/             # German-specific resources
+```
+
+---
+
+## 💻 Quick Start
+
+<div align="center">
+
+```bash
+git clone https://github.com/yourusername/git-learn.git
+cd git-learn
+```
+
+Navigate to your preferred language directory (e.g., `cd en/`) to access tutorials.
 
 </div>
 
@@ -22,28 +103,6 @@ A comprehensive guide to mastering Git version control - from basics to advanced
 - [📕 Advanced Learning](#-advanced-learning)
 - [🔧 Reference & Resources](#-reference--resources)
 - [👥 Contributing](#-contributing)
-
----
-
-## 💻 Quick Start
-
-<div align="center">
-
-```bash
-git clone https://github.com/yourusername/git-learn.git
-cd git-learn
-```
-
-| Essential Command | Description |
-|---------|-------------|
-| `git init` | Initialize a new repository |
-| `git clone <url>` | Clone a repository |
-| `git add <files>` | Stage changes |
-| `git commit -m "message"` | Commit changes |
-| `git pull` | Update from remote |
-| `git push` | Send to remote |
-
-</div>
 
 ---
 
@@ -125,15 +184,26 @@ cd git-learn
 
 ## 👥 Contributing
 
-We welcome contributions to improve this Git learning resource! Here's how you can contribute:
+We welcome contributions to improve this Git learning resource! Here are ways you can contribute:
 
-<div align="center">
-  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="100px" />
-</div>
+### Adding New Languages
+
+1. Ensure the language directory exists (e.g., `ja/` for Japanese)
+2. Create the standard structure with `tutorials/` and `resources/` subdirectories
+3. Translate content from an existing language
+4. Update the main README.md to include the new language
+
+### Improving Existing Content
+
+1. Navigate to the appropriate language directory
+2. Edit the relevant files with corrections or improvements
+3. Submit a pull request with your changes
+
+### Contribution Process
 
 1. **Fork the repository** - Create your own copy of this project
 2. **Create a feature branch** - `git checkout -b feature/your-feature-name`
-3. **Make your changes** - Improve existing content or add new sections
+3. **Make your changes** - Improve existing content or add new languages/sections
 4. **Commit your changes** - Use clear commit messages
 5. **Push to your branch** - `git push origin feature/your-feature-name`
 6. **Open a Pull Request** - Submit your changes for review
@@ -144,7 +214,7 @@ All contributions, including corrections, additional examples, or new topics are
 
 <div align="center">
   
-**Happy Git mastering!** 👨‍💻👩‍💻
+**Happy Git mastering in your language of choice!** 👨‍💻👩‍💻
 
 <p align="center">
   <img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" width="200px" />
