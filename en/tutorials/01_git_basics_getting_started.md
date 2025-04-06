@@ -1,12 +1,12 @@
 **Source of Information:**
 
-This line indicates the origin of the information you are referencing. It specifies two sources:
+It specifies two sources:
 
-1.  **Head First Git:** This refers to a book titled "Head First Git". It is likely the primary source for the information you are presenting. "Head First" is a popular series of learning books known for their visual and engaging approach to complex topics.
+1.  **Head First Git:** "Head First" is a popular series of learning books known for their visual and engaging approach to complex topics.
 
-2.  **https://i-love-git.com/:** This is a Uniform Resource Locator (URL) pointing to a website. This website, "i-love-git.com", is another source that may have provided or supplemented the information.this website is related to the "Head First Git" book.
+2.  **https://i-love-git.com/:** This website, "i-love-git.com", is another source that have provided the information.this website is related to the "Head First Git" book.
 
-In summary, the information comes from the book "Head First Git".
+In summary, the most subject comes from the book "Head First Git".
 
 ## Git File States: A Deep Dive
 
