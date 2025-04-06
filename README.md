@@ -100,7 +100,7 @@ git-learn/
 
 ## 💻 Quick Start
 
-<div align="center">
+<div align="left">
 
 ```bash
 git clone https://github.com/yourusername/git-learn.git
