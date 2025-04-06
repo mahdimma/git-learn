@@ -119,7 +119,7 @@ Navigate to your preferred language directory (e.g., `cd en/`) to access tutoria
 - [📘 Basic Tutorials](#-basic-tutorials)
 - [📗 Intermediate Topics](#-intermediate-topics)
 - [📕 Advanced Learning](#-advanced-learning)
-- [🔧 Reference & tutorials](#-reference--tutorials)
+- [🔧 Reference And resources](#-Reference-And-Resources)
 - [👥 Contributing](#-contributing)
 
 ---
@@ -131,8 +131,8 @@ Navigate to your preferred language directory (e.g., `cd en/`) to access tutoria
     <tr>
       <td align="center"><a href="en/tutorials/01_git_basics_getting_started.md"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="50px" /><br /><b>🚀 Getting Started</b></a></td>
       <td align="center"><a href="en/tutorials/02_git_branching_strategies.md"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="50px" /><br /><b>🌿 Branching Out</b></a></td>
-      <td align="center"><a href="en/tutorials/03_git_history_and_diffs.md"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png      <td align="center"><a href="https://git-scm.com/doc"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="50px" /><br /><b>📝 Official Docs</b></a></td>
-png" width="50px" /><br /><b>↩️ Undoing Changes</b></a></td>
+      <td align="center"><a href="en/tutorials/03_git_history_and_diffs.md"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="50px" /><br /><b>📜 Log and Diff</b></a></td>
+        <td align="center"><a href="en/tutorials/04_git_undo_and_recovery.md"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="50px" /><br /><b>↩️ Undoing Changes</b></a></td>
     </tr>
   </table>
 </div>
@@ -187,7 +187,7 @@ png" width="50px" /><br /><b>↩️ Undoing Changes</b></a></td>
 
 ---
 
-## 🔧 Reference & Resources
+## 🔧 Reference And Resources
 
 <div align="center">
   <table>
