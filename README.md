@@ -115,11 +115,7 @@ cd git-learn
 <div align="center">
   <table>
     <tr>
-<<<<<<< HEAD
       <td align="center"><a href="https://git-scm.com/doc"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="50px" /><br /><b>📝 Official Docs</b></a></td>
-=======
-      <td align="center"><a href="Appendix_Additional_Information.md"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="50px" /><br /><b>📝 Appendix</b></a></td>
->>>>>>> origin/main
       <td align="center"><a href="LICENSE"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="50px" /><br /><b>⚖️ License</b></a></td>
     </tr>
   </table>
