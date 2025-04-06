@@ -1,39 +1,39 @@
-# Tutoriels Git - Français
+# Git Tutorials - Deutsch
 
-## 📋 À Propos
+## 📋 Über
 
-Cette section contient (ou contiendra) des tutoriels Git en français. 
+Dieser Bereich enthält (oder wird enthalten) Git-Tutorials auf Deutsch.
 
-## 🚧 Aide Recherchée pour la Traduction!
+## 🚧 Übersetzer gesucht!
 
-Nous sommes à la recherche de contributeurs pour traduire les tutoriels Git de l'anglais vers le français. Si vous parlez couramment les deux langues et que vous connaissez Git, votre aide serait très appréciée!
+Wir suchen Mitwirkende, die die Git-Tutorials vom Englischen ins Deutsche übersetzen können. Wenn Sie beide Sprachen fließend sprechen und sich mit Git auskennen, wäre Ihre Hilfe sehr willkommen!
 
-## 📝 Comment Contribuer à la Traduction
+## 📝 Wie Sie zur Übersetzung beitragen können
 
-1. Consultez les tutoriels originaux en anglais dans le dossier `en/tutorials/`
-2. Créez un nouveau fichier dans ce dossier avec le même nom que le fichier anglais
-3. Traduisez le contenu en français, en prenant soin de:
-   - Conserver la structure du document
-   - Adapter les exemples si nécessaire pour le public francophone
-   - Maintenir la cohérence de la terminologie technique
+1. Sehen Sie sich die englischen Original-Tutorials im Ordner `en/tutorials/` an
+2. Erstellen Sie eine neue Datei in diesem Ordner mit dem gleichen Namen wie die englische Datei
+3. Übersetzen Sie den Inhalt ins Deutsche und achten Sie dabei auf:
+   - Beibehaltung der Dokumentstruktur
+   - Anpassung der Beispiele für deutschsprachige Benutzer, falls erforderlich
+   - Konsistenz in der technischen Terminologie
 
-## 📚 Fichiers à Traduire
+## 📚 Zu übersetzende Dateien
 
-- [ ] `01_git_basics_getting_started.md` - Les bases de Git et démarrage
-- [ ] `02_git_branching_strategies.md` - Stratégies de branches
-- [ ] `03_git_history_and_diffs.md` - Historique et différences
-- [ ] `04_git_undo_and_recovery.md` - Annulation et récupération
-- [ ] `05_git_remote_repositories.md` - Dépôts distants
-- [ ] `06_git_collaboration_workflow.md` - Flux de travail collaboratif
-- [ ] `07_git_search_techniques.md` - Techniques de recherche
-- [ ] `08_git_pro_tips_and_tricks.md` - Astuces pour les pros
-- [ ] `09_git_advanced_internals.md` - Les mécanismes internes avancés de Git
-- [ ] `10_git_rare_useful_commands.md` - Commandes rares mais utiles
+- [ ] `01_git_basics_getting_started.md` - Git-Grundlagen und Einstieg
+- [ ] `02_git_branching_strategies.md` - Branching-Strategien
+- [ ] `03_git_history_and_diffs.md` - Verlauf und Unterschiede
+- [ ] `04_git_undo_and_recovery.md` - Rückgängig machen und Wiederherstellung
+- [ ] `05_git_remote_repositories.md` - Remote-Repositories
+- [ ] `06_git_collaboration_workflow.md` - Kollaborativer Workflow
+- [ ] `07_git_search_techniques.md` - Suchtechniken
+- [ ] `08_git_pro_tips_and_tricks.md` - Profi-Tipps und Tricks
+- [ ] `09_git_advanced_internals.md` - Fortgeschrittene Git-Interna
+- [ ] `10_git_rare_useful_commands.md` - Seltene, aber nützliche Befehle
 
-## 💡 Conseils de Traduction
+## 💡 Übersetzungstipps
 
-- Essayez de rester fidèle au texte original tout en l'adaptant naturellement à la langue française
-- Pour les termes techniques, utilisez les conventions de traduction françaises lorsqu'elles existent, sinon conservez les termes anglais
-- N'hésitez pas à ajouter des notes du traducteur si un concept est difficile à traduire ou nécessite une explication supplémentaire pour le public francophone
+- Versuchen Sie, dem Originaltext treu zu bleiben, während Sie ihn natürlich ins Deutsche übertragen
+- Verwenden Sie für technische Begriffe deutsche Übersetzungskonventionen, wenn diese existieren, andernfalls behalten Sie die englischen Begriffe bei
+- Fügen Sie gerne Übersetzerhinweise hinzu, wenn ein Konzept schwer zu übersetzen ist oder zusätzliche Erklärungen für das deutschsprachige Publikum erfordert
 
-Merci de votre contribution! 🙏
+Vielen Dank für Ihren Beitrag! 🙏
